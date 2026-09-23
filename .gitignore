@@ -36,3 +36,6 @@ coverage/
 .vscode/
 __pycache__/
 *.py[cod]
+
+# 寄养服务本地数据
+data/
