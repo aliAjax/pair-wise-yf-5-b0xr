@@ -36,3 +36,6 @@ coverage/
 .vscode/
 __pycache__/
 *.py[cod]
+
+# 寄养服务运行数据
+boarding_data.json*
